@@ -1,0 +1,29 @@
+_repo: Manual-of-the-Enumeration--13-A-Text-Book-on-the-Sciences-of-the-Enumeration-Book-one_35998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffman, C. J. (Casper James)
+    alias: Coffman, Casper James
+    birthdate: 1885
+    gutenberg_agent_id: '38021'
+    url: http://www.gutenberg.org/2009/agents/38021
+description: ''
+gutenberg_issued: '2011-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35998'
+  lccn: '28008765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astrology'
+- !lcsh 'Symbolism of numbers'
+- !lcc 'BF'
+title: "Manual of the Enumeration\r\nA Text Book on the Sciences of the Enumeration,\
+  \ Book one"
+url: http://www.gutenberg.org/ebooks/35998
